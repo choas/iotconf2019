@@ -1,0 +1,11 @@
+.Python
+bin/
+include/
+lib/
+pip-selfcheck.json
+etc/
+notebooks/.ipynb_checkpoints/
+notebooks/logs/
+share/
+
+icetea_lib

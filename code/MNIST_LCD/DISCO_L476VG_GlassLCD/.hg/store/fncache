@@ -1,0 +1,4 @@
+data/BSP_DISCO_L476VG.lib.i
+data/LCD_DISCO_L476VG.lib.i
+data/mbed.bld.i
+data/main.cpp.i
